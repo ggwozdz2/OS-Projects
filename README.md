@@ -16,7 +16,7 @@ My scores:
 | **inverse**     |  **4.6** / 5 _pt_ |
 | **core**	   | **5** / 5 _pt_ |
 | **payments** | **5** / 5 _pt_ |
-| **wait** | **5** / 6 _pt_
+| **wait** | **5** / 5 _pt_
 
 
 
